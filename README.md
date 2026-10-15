@@ -18,6 +18,9 @@ A minimal Android application built with **Kotlin** and **Jetpack Compose** that
 - **Design:** Material 3
 - **Android API:** `ContactsContract` and `ContentResolver`
 - **Build system:** Gradle
+## Screenshots
+<img width="608" height="1320" alt="WhatsApp Image 2026-10-15 at 11 17 50 AM" src="https://github.com/user-attachments/assets/18520194-375e-4f9e-a732-a7f5274f6903" />
+<img width="1216" height="2640" alt="WhatsApp Image 2026-10-15 at 11 17 51 AM" src="https://github.com/user-attachments/assets/697ac08c-565c-4465-8e31-13bdcf757c90" />
 
 ## How It Works
 
